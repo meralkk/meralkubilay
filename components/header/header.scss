@@ -1,0 +1,48 @@
+@use "../../src/assets/styles/main.scss" as *;
+
+.navbar-container {
+  font-size: $text-size;
+  width: 100%;
+  height: auto;
+  padding: 25px 40px 25px 50px;
+  position: fixed;
+  background-color: $background-color;
+  top: 0;
+  box-shadow: 0px 0px 10px rgb(0 0 0 / 9%);
+  z-index: 200;
+  align-items: center;
+
+  .nav-link {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+
+    a {
+      color: $black-shade;
+      text-decoration: none;
+      transition: all 0.23s;
+      font-weight: 600;
+
+      @media (max-width: 900px) {
+        display: none;
+      }
+
+      &:hover {
+        color: $header-color;
+      }
+    }
+  }
+
+  .logo {
+    cursor: pointer;
+    color: $black-shade;    
+    font-weight: bold;
+    
+    &:hover {
+      color: $header-color;
+    }
+  }
+
+}
+
+
