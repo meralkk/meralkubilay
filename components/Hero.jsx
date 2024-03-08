@@ -28,7 +28,7 @@ function Hero() {
                 <h1>Junior Front-End Developer</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
-                  Hi, I'm Meral K. Kubilay. A passionate Junior Front-end 
+                  Hi, I'm Meral Keskin Kubilay. A passionate Junior Front-end 
                   Developer based in Berlin, Germany. 📍
                 </p>
                 <span>
