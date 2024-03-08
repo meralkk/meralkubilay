@@ -27,8 +27,8 @@ function Contact() {
                 </span>
                 <div className="contact__info">
                   <h3>Mail</h3>
-                  <a href="mailto:stefan.topallovic@gmail.com">
-                    meralkeskinn@gmail.com
+                  <a href="mailto:meralkeskinn@gmail.com">
+                  meralkeskinn@gmail.com
                   </a>
                   
                 </div>
@@ -39,12 +39,6 @@ function Contact() {
                   <br />
 
               </div>
-              <br />
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-
             </div>
           </div>
         </div>
