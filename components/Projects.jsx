@@ -16,10 +16,11 @@ function Projects() {
             <br />
             <br />
 
+{/* 1. project */}
 
             <div className="about-content">
               <div className="img-side">
-                <img src={Mrlsmdb} alt="mee" className="img-side__main-img" />
+                <a href="https://mrlsmdb.vercel.app/"  target="_blank"><img src={Mrlsmdb} alt="mee" className="img-side__main-img" /></a>
               </div>
               <div className="project-title">
                 <h3>Movie Database 🍿</h3>
@@ -77,7 +78,7 @@ function Projects() {
 
             <span class="spacer-line"></span>
 
-
+{/* 2. project */}
 
             <div className="about-content">
               <div className="project-title">
@@ -114,7 +115,7 @@ function Projects() {
                           aria-label="vercel"
                           rel="noreferrer"
                           target="_blank"
-                          href="https://edusity-self.vercel.app/"
+                          href="https://edusity-edu.vercel.app/"
                         >
                           Live Demo <IconExternalLink />
                         </a>
@@ -124,7 +125,7 @@ function Projects() {
                 </div>
               </div>
               <div className="img-side">
-                <img src={edusity} alt="mee" className="img-side__main-img" />
+                <a href="https://edusity-edu.vercel.app/" target="_blank"><img src={edusity} alt="mee" className="img-side__main-img" /></a>
               </div>
 
             
