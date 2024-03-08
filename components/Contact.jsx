@@ -30,8 +30,21 @@ function Contact() {
                   <a href="mailto:stefan.topallovic@gmail.com">
                     meralkeskinn@gmail.com
                   </a>
+                  
                 </div>
+                <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+
               </div>
+              <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+
             </div>
           </div>
         </div>

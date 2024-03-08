@@ -6,7 +6,7 @@ import edusity from '../media/edusity.jpg';
 function Projects() {
   return (
     <>
-      <section id="contact" className="contact">
+      <section id="projects" className="contact">
         <div className="container">
           <div className="contact__content">
             <div className="contact__title">
