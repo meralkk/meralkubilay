@@ -1,15 +1,12 @@
-import React from 'react'
-import Footer from '../components/footer/footer'
-import Header from '../components/header/header'
+import Home from "../pages/Home";
+import "../src/distStyles/styles.css"
 
-const App = () => {
+function App() {
   return (
-    <div>
-      <Header/>
-      <Footer/>
-
-    </div>
-  )
+    <>
+      <Home />
+    </>
+  );
 }
 
-export default App
+export default App;
