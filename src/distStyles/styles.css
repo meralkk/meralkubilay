@@ -890,17 +890,18 @@ footer h3 {
   text-align: center;
 }
 .project-text a {
-  color: #2d2e32;
+  color: #8e8e8e;
   font-weight: 700;
-margin-bottom: -0.3rem;
+  margin-bottom: -0.3rem;
   text-align: center;
+
 
 }
 
 .project-text svg {
-  color: #2d2e32;
+  color: #8e8e8e;
   font-weight: 700;
-margin-bottom: -0.3rem;
+  margin-bottom: -0.3rem;
   text-align: center;
 }
 

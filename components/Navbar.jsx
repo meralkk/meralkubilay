@@ -23,8 +23,12 @@ function Navbar() {
       link: "#about",
     },
     {
-      name: "Projects",
-      link: "#projects",
+      name: "Front-End Projects",
+      link: "#frontendprojects",
+    },
+    {
+      name: "UI Projects",
+      link: "#uiprojects",
     },
     {
       name: "Contact",
@@ -36,7 +40,7 @@ function Navbar() {
     <>
       <nav>
         <h3 onClick={pageUp} className="logo">
-          Meral.dev
+          Meral Keskin Kubilay
         </h3>
         <ul>
           {navlinks.map((item) => (

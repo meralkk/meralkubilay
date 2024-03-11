@@ -4,14 +4,14 @@ import edusity from "../media/edusity.jpg";
 import gemini from "../media/gemini_clone.jpg";
 import amazon from "../media/amazon-clone.jpg";
 
-function Projects() {
+function FrontendProjects() {
   return (
     <>
-      <section id="projects" className="contact">
+      <section id="frontendprojects" className="contact">
         <div className="container">
           <div className="contact__content">
             <div className="contact__title">
-              <p>Projects</p>
+              <p>Front-End Projects</p>
               <h3>Every project is a unique development journey 🧩</h3>
             </div>
             <span class="spacer-line"></span>
@@ -252,4 +252,4 @@ function Projects() {
   );
 }
 
-export default Projects;
+export default FrontendProjects;
