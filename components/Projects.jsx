@@ -1,7 +1,8 @@
 import { IconBrandGithub, IconExternalLink } from "@tabler/icons-react";
 import Mrlsmdb from "../media/mrlsmdb.jpg";
-import edusity from '../media/edusity.jpg';
+import edusity from "../media/edusity.jpg";
 import gemini from "../media/gemini_clone.jpg";
+import amazon from "../media/amazon-clone.jpg";
 
 function Projects() {
   return (
@@ -15,22 +16,27 @@ function Projects() {
             </div>
             <span class="spacer-line"></span>
 
-{/* Project 1 */}
+            {/* Project 1 */}
 
             <div className="about-content">
               <div className="img-side">
-                <a href="https://gemini-clone-meralkk.vercel.app/"  target="_blank">
-                  <img src={gemini} alt="mee" className="img-side__main-img" /></a>
+                <a
+                  href="https://gemini-clone-meralkk.vercel.app/"
+                  target="_blank"
+                >
+                  <img src={gemini} alt="mee" className="img-side__main-img" />
+                </a>
               </div>
               <div className="project-title">
                 <h3>Gemini AI Clone 🤖</h3>
                 <div className="text-side">
                   <p>
-                  This website is a Gemini AI clone, where users can explore 
-                  the capabilities of artificial intelligence by searching for 
-                  information using the Gemini API. It offers functionalities like 
-                  real-time search results, a responsive design for seamless navigation and 
-                  infinite scrolling for continuous exploration.
+                    This website is a Gemini AI clone, where users can explore
+                    the capabilities of artificial intelligence by searching for
+                    information using the Gemini API. It offers functionalities
+                    like real-time search results, a responsive design for
+                    seamless navigation and infinite scrolling for continuous
+                    exploration.
                     <div className="project-text">
                       <br />
                       <p>
@@ -40,18 +46,17 @@ function Projects() {
                     <div className="project-text">
                       <br />
                       <p>
-                   
                         <a
                           aria-label="github"
                           rel="noreferrer"
                           target="_blank"
                           href="https://github.com/meralkk/gemini-clone.git"
                         >
-                        Code  <IconBrandGithub />
+                          Code <IconBrandGithub />
                         </a>
-                   
+
                         <span class="spacer"></span>
-                       
+
                         <a
                           aria-label="vercel"
                           rel="noreferrer"
@@ -65,33 +70,26 @@ function Projects() {
                   </p>
                 </div>
               </div>
-            
-            
-
-              
-
-
-
-
-
             </div>
-                        <span class="spacer-line"></span>
-
-<hr />
             <span class="spacer-line"></span>
 
-{/* Project 2 */}
+            <hr />
+            <span class="spacer-line"></span>
+
+            {/* Project 2 */}
 
             <div className="about-content">
               <div className="project-title">
                 <h3>Edusity Education 🧑‍🎓</h3>
                 <div className="text-side">
                   <p>
-                  This website is designed to showcase educational programs and campus life, 
-                  offering users an intuitive navigation experience to explore degrees, 
-                  read testimonials, and view gallery images. 
-                  It utilizes modern web technologies for a responsive, user-friendly interface, 
-                  ensuring information on educational paths and student experiences is easily accessible. 
+                    This website is designed to showcase educational programs
+                    and campus life, offering users an intuitive navigation
+                    experience to explore degrees, read testimonials, and view
+                    gallery images. It utilizes modern web technologies for a
+                    responsive, user-friendly interface, ensuring information on
+                    educational paths and student experiences is easily
+                    accessible.
                     <div className="project-text">
                       <br />
                       <p>
@@ -101,18 +99,17 @@ function Projects() {
                     <div className="project-text">
                       <br />
                       <p>
-                   
                         <a
                           aria-label="github"
                           rel="noreferrer"
                           target="_blank"
                           href="https://github.com/meralkk/edusity.git"
                         >
-                        Code  <IconBrandGithub />
+                          Code <IconBrandGithub />
                         </a>
-                   
+
                         <span class="spacer"></span>
-                       
+
                         <a
                           aria-label="vercel"
                           rel="noreferrer"
@@ -127,31 +124,79 @@ function Projects() {
                 </div>
               </div>
               <div className="img-side">
-                <a href="https://edusity-edu.vercel.app/" target="_blank"><img src={edusity} alt="mee" className="img-side__main-img" /></a>
+                <a href="https://edusity-edu.vercel.app/" target="_blank">
+                  <img src={edusity} alt="mee" className="img-side__main-img" />
+                </a>
               </div>
-
-            
-
-              
-
-
-
-
-
             </div>
 
             <span class="spacer-line"></span>
 
-<hr />
+            <hr />
             <span class="spacer-line"></span>
 
-
-{/* Project 3 */}
-
-<div className="about-content">
+            {/* Project 3 */}
+            <div className="about-content">
               <div className="img-side">
-                <a href="https://mrlsmdb.vercel.app/"  target="_blank"><img src={Mrlsmdb} alt="mee" className="img-side__main-img" /></a>
+                <a
+                  href="https://amazon-clone-meralkk.vercel.app/"
+                  target="_blank"
+                >
+                  <img src={amazon} alt="mee" className="img-side__main-img" />
+                </a>
               </div>
+              <div className="project-title">
+                <h3>Amazon Clone 🛒</h3>
+                <div className="text-side">
+                  <p>
+                  This website is a clone of Amazon based on its design. 
+                  It offers a platform that allows users to discover products, 
+                  read reviews and shop online. Developed using HTML, CSS and 
+                  JavaScript.
+                    <div className="project-text">
+                      <br />
+                      <p>
+                        HTML<span class="spacer"></span> CSS
+                        <span class="spacer"></span>Javascript
+                      </p>
+                    </div>
+                    <div className="project-text">
+                      <br />
+                      <p>
+                        <a
+                          aria-label="github"
+                          rel="noreferrer"
+                          target="_blank"
+                          href="https://github.com/meralkk/amazon-clone"
+                        >
+                          Code <IconBrandGithub />
+                        </a>
+
+                        <span class="spacer"></span>
+
+                        <a
+                          aria-label="vercel"
+                          rel="noreferrer"
+                          target="_blank"
+                          href="https://amazon-clone-meralkk.vercel.app/"
+                        >
+                          Live Demo <IconExternalLink />
+                        </a>
+                      </p>
+                    </div>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <span class="spacer-line"></span>
+
+            <hr />
+            <span class="spacer-line"></span>
+
+            {/* Project 4 */}
+
+            <div className="about-content">
               <div className="project-title">
                 <h3>Movie Database 🍿</h3>
                 <div className="text-side">
@@ -170,18 +215,17 @@ function Projects() {
                     <div className="project-text">
                       <br />
                       <p>
-                   
                         <a
                           aria-label="github"
                           rel="noreferrer"
                           target="_blank"
                           href="https://github.com/meralkk/mrlsmdb.git"
                         >
-                        Code  <IconBrandGithub />
+                          Code <IconBrandGithub />
                         </a>
-                   
+
                         <span class="spacer"></span>
-                       
+
                         <a
                           aria-label="vercel"
                           rel="noreferrer"
@@ -195,21 +239,12 @@ function Projects() {
                   </p>
                 </div>
               </div>
-            
-            
-
-              
-
-
-
-
-
+              <div className="img-side">
+                <a href="https://mrlsmdb.vercel.app/" target="_blank">
+                  <img src={Mrlsmdb} alt="mee" className="img-side__main-img" />
+                </a>
+              </div>
             </div>
-
-            <span class="spacer-line"></span>
-
-
-
           </div>
         </div>
       </section>
