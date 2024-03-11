@@ -49,7 +49,7 @@ const UiProjects = () => {
                           aria-label="vercel"
                           rel="noreferrer"
                           target="_blank"
-                          href="https://gemini-clone-meralkk.vercel.app/"
+                          href="a101-shopping-meralkk.vercel.app"
                         >
                            See more &rarr;
                         </a>
