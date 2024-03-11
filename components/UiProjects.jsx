@@ -24,7 +24,7 @@ const UiProjects = () => {
             <div className="about-content">
               <div className="img-side">
                 <a
-                  href="https://gemini-clone-meralkk.vercel.app/"
+                  href="https://a101-shopping-meralkk.vercel.app/"
                   target="_blank"
                 >
                   <img src={shopping} alt="mee" className="img-side__main-img" />
@@ -49,7 +49,7 @@ const UiProjects = () => {
                           aria-label="vercel"
                           rel="noreferrer"
                           target="_blank"
-                          href="a101-shopping-meralkk.vercel.app"
+                          href="https://a101-shopping-meralkk.vercel.app/"
                         >
                            See more &rarr;
                         </a>
