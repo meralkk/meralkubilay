@@ -6,6 +6,7 @@ import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import FrontendProjects from "../components/Frontendprojects";
 import UiProjects from "../components/UiProjects";
+import Resume from "../components/Resume";
 
 function Home() {
   return (
@@ -15,6 +16,7 @@ function Home() {
       <AboutMe />
       <FrontendProjects/>
       <UiProjects/>
+      <Resume/>
       <Contact />
       <Footer />
     </>

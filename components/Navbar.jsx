@@ -31,6 +31,10 @@ function Navbar() {
       link: "#uiprojects",
     },
     {
+      name: "Resume",
+      link: "#resume",
+    },
+    {
       name: "Contact",
       link: "#contact",
     },

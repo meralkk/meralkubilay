@@ -18,15 +18,14 @@ function AboutMe() {
             <div className="text-side">
               <h3>About me</h3>
               <h4>
-                Front-end Developer <br /> based in Berlin, Germany 📍
+                Hey !  👋😊
               </h4>
               <p>
-                Hey, my name is Meral, and I'm a Frontend Developer. My passion
-                is to create and develop a clean UI/UX for my users.
+                My name is Meral, and I'm a Jr. Frontend Developer and UI Designer. My passion
+                is to create and develop a clean UI/UX for users.
                 <br />
                 <br />
-                I am a Junior Front-end Developer passionate about 
-                HTML, CSS, and JavaScript. I love to create responsive, 
+                I love to create responsive, 
                 interactive websites and make web applications easy to use. 
                 I'm all about adapting, collaborating, and coming up with 
                 fresh, practical ideas to make things work better, especially 

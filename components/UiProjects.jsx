@@ -51,7 +51,7 @@ const UiProjects = () => {
                           target="_blank"
                           href="https://a101-shopping-meralkk.vercel.app/"
                         >
-                           See more &rarr;
+                           See the project &rarr;
                         </a>
                       </p>
                     </div>

@@ -25,11 +25,11 @@ function Hero() {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Junior Front-End Developer</h1>
+                <h1>Jr. Front-End Developer and UI Designer</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
-                  Hi, I'm Meral Keskin Kubilay. A passionate Junior Front-end 
-                  Developer based in Berlin, Germany. 📍
+                  Hi, I'm Meral. A passionate Junior Front-end 
+                  Developer and UI designer based in Berlin, Germany. 📍
                 </p>
                 <span>
                   <a
@@ -38,7 +38,7 @@ function Hero() {
                     target="_blank"
                     href="https://www.linkedin.com/in/meralkkubilay/"
                   >
-                    <IconBrandLinkedin width={32} height={32} />
+                    <IconBrandLinkedin width={40} height={40} />
                   </a>
                   <a
                     aria-label="github"
@@ -46,7 +46,7 @@ function Hero() {
                     target="_blank"
                     href="https://github.com/meralkk"
                   >
-                    <IconBrandGithub width={32} height={32} />
+                    <IconBrandGithub width={36} height={36} />
                   </a>
                 </span>
               </div>

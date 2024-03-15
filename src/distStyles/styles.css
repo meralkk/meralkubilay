@@ -285,8 +285,8 @@ nav ul a:hover {
   position: absolute;
   width: 6rem;
   height: 6rem;
-  top: 8.7rem;
-  right: 13rem;
+  top: 15rem;
+  right: 14rem;
 }
 @media (max-width: 900px) {
   .hero-text img {
