@@ -11,7 +11,7 @@ const Resume = () => {
               <h3>
                 You can download my resume here.👇
                 <br /> <br />
-                <iframe src="/../media/MeralKK_resume.pdf" width="100%" height="400px"></iframe>
+                <iframe src="/public/MeralKK_resume.pdf" width="100%" height="400px"></iframe>
 
               </h3>
 
