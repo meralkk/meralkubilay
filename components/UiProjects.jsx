@@ -1,6 +1,6 @@
 import React from "react";
-import { IconBrandGithub, IconExternalLink } from "@tabler/icons-react";
-import shopping from '../media/shopping.png';
+import medbuddy from '../media/medbuddy_thumbnail.png';
+import shopping from '../media/shopping.png'
 
 const UiProjects = () => {
   return (
@@ -17,10 +17,7 @@ const UiProjects = () => {
             </div>
             <span class="spacer-line"></span>
            
-            {/* Project 1 */}
-
-            {/* Project 1 */}
-
+            {/* Project 1 / A101*/}
             <div className="about-content">
               <div className="img-side">
                 <a
@@ -60,11 +57,48 @@ const UiProjects = () => {
               </div>
             </div>
             <span class="spacer-line"></span>
-
             <hr />
             <span class="spacer-line"></span>
 
-
+            {/* Project 2 / Medbuddy*/}
+            <div className="about-content">
+              <div className="img-side">
+                <a
+                  href="https://medbuddy-meralkk.vercel.app/"
+                  target="_blank"
+                >
+                  <img src={medbuddy} alt="mee" className="img-side__main-img" />
+                </a>
+              </div>
+              <div className="project-title">
+                <h3>Medbuddy Take Medicine App
+                  <br /> UI Design Project</h3>
+                <div className="text-side">
+                  <p>
+                  Medbuddy application is used by caregivers and those who do not want to miss their medication hours. Medication hours are tracked with this application.
+                    <div className="project-text">
+                      <br />
+                      <p>
+                      🛠️ Figma / Illustrator
+                      </p>
+                    </div>
+                    <div className="project-text">
+                      <br />
+                      <p>
+                        <a
+                          aria-label="vercel"
+                          rel="noreferrer"
+                          target="_blank"
+                          href="https://medbuddy-meralkk.vercel.app"
+                        >
+                           See the project &rarr;
+                        </a>
+                      </p>
+                    </div>
+                  </p>
+                </div>
+              </div>
+            </div>
             <span class="spacer-line"></span>
 
           </div>

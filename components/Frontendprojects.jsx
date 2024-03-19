@@ -79,7 +79,14 @@ function FrontendProjects() {
             {/* Project 2 */}
 
             <div className="about-content">
+            <div className="img-side">
+                <a href="https://edusity-edu.vercel.app/" target="_blank">
+                  <img src={edusity} alt="mee" className="img-side__main-img" />
+                </a>
+              </div>
+
               <div className="project-title">
+                
                 <h3>Edusity Education 🧑‍🎓</h3>
                 <div className="text-side">
                   <p>
@@ -122,11 +129,6 @@ function FrontendProjects() {
                     </div>
                   </p>
                 </div>
-              </div>
-              <div className="img-side">
-                <a href="https://edusity-edu.vercel.app/" target="_blank">
-                  <img src={edusity} alt="mee" className="img-side__main-img" />
-                </a>
               </div>
             </div>
 
@@ -197,6 +199,12 @@ function FrontendProjects() {
             {/* Project 4 */}
 
             <div className="about-content">
+            <div className="img-side">
+                <a href="https://mrlsmdb.vercel.app/" target="_blank">
+                  <img src={Mrlsmdb} alt="mee" className="img-side__main-img" />
+                </a>
+              </div>
+
               <div className="project-title">
                 <h3>Movie Database 🍿</h3>
                 <div className="text-side">
@@ -238,11 +246,6 @@ function FrontendProjects() {
                     </div>
                   </p>
                 </div>
-              </div>
-              <div className="img-side">
-                <a href="https://mrlsmdb.vercel.app/" target="_blank">
-                  <img src={Mrlsmdb} alt="mee" className="img-side__main-img" />
-                </a>
               </div>
             </div>
           </div>
