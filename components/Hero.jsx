@@ -25,7 +25,7 @@ function Hero() {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Jr.UI Designer and Entry Level Frontend Dev.</h1>
+                <h1>Jr.UI Designer & E-Level Frontend Dev.</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
                   Hi, I'm Meral. A passionate Junior Front-end 
