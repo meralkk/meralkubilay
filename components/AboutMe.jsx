@@ -21,7 +21,7 @@ function AboutMe() {
                 Hey !  👋😊
               </h4>
               <p>
-                My name is Meral, and I'm a Jr. Frontend Developer and UI Designer. My passion
+                My name is Meral, and I'm a Jr.UI Designer. My passion
                 is to create and develop a clean UI/UX for users.
                 <br />
                 <br />
