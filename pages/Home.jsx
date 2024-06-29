@@ -14,8 +14,8 @@ function Home() {
       <Navbar />
       <Hero />
       <AboutMe />
-      <FrontendProjects/>
       <UiProjects/>
+      <FrontendProjects/>
       <Resume/>
       <Contact />
       <Footer />

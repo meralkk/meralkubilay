@@ -23,12 +23,12 @@ function Navbar() {
       link: "#about",
     },
     {
-      name: "Front-End Projects",
-      link: "#frontendprojects",
-    },
-    {
       name: "UI Projects",
       link: "#uiprojects",
+    },
+    {
+      name: "Front-End Projects",
+      link: "#frontendprojects",
     },
     {
       name: "Resume",
