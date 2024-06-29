@@ -25,10 +25,11 @@ function Hero() {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Hello there !</h1>
+                <h1>Jr.UI Designer and Entry Level Frontend Dev.</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
-                  Hi, I'm Meral. A passionate Junior UI designer and entry level front-end developer based in Berlin, Germany. 📍
+                  Hi, I'm Meral. A passionate Junior Front-end 
+                  Developer and UI designer based in Berlin, Germany. 📍
                 </p>
                 <span>
                   <a
